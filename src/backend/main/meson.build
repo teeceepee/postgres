@@ -2,3 +2,5 @@
 
 main_file = files('main.c')
 backend_sources += main_file
+
+backend_sources += files('myfunc.c')
